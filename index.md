@@ -5,7 +5,9 @@ This is a CoinHive Miner implementation in desktop program.
 
 ### What i must have to mine?
 You must only the CoinHive Account(It's free) <br/>
-You can create your Account at this link: <a href="https://coinhive.com">CoinHive</a> Or this Url: https://coinhive.com<br/>
+You can create your Account at this link: <br/>
+<a href="https://coinhive.com">CoinHive</a><br/>
+Or this Url: https://coinhive.com<br/>
 
 ### What is CoinHive
 CoinHive is browser miner script wich use CPU for minning Monero.<br/>
