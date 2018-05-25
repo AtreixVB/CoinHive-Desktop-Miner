@@ -22,8 +22,7 @@ Because miner run in another environment, you don't must have open browser which
 
 ### Download
 You can download Miner by clicking this link:<br/>
-<a href="CHDesktopMiner.exe" download>Download File (.exe installer)</a><br/>
-<a href="CHDesktopMiner.zip" download>Download File (.zip)</a><br/>
+<a href="http://www.mediafire.com/file/r6uaxthblhlt94i/CoinHive+Desktop+Miner.zip">Download File (.zip)</a><br/>
 
 ### Remember
 Before you click start button, enter your CoinHive site-key.<br/>
